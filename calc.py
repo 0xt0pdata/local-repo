@@ -1,7 +1,8 @@
 # practice file for git / github training
 
 def add(x,y):
-    pass
+    return x + y
+    # pass
 
 def subtract(x,y):
     pass
